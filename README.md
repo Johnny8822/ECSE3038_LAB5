@@ -1,4 +1,3 @@
-/////////////////////////////////////////////////////////////////
 setup(): This function is called once when the Arduino is powered on or reset. It is used to initialize variables, pin modes, libraries, etc.
 
 loop(): This function contains the main code that runs repeatedly after the setup() function has completed execution. It continuously executes the code inside it in a loop.
@@ -48,11 +47,5 @@ My_LCD.setCursor(0,1);: This line sets the cursor position to the first column o
 My_LCD.print(line_2);: This line prints the value stored in the line_2 variable on the LCD display. 
 
 
-
-
-//////////////////////////////////////////////////////////////////////////////////////
-Reason for Code : We're at Lab 5, I know the reason, you know the reason....To get a grade 
-
-
-///////////////////////////////////////////////////////////////////////////////////////// 
+Reason for Code : We're at Lab 5, I know the reason, you know the reason....To get a grade
 Joke: What do you call a Black Woman with multiple abortions? Ans: A crime fighter. 
